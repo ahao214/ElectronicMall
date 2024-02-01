@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicMall.Domain.Abstractions", "ElectronicMall.Domain.Abstractions\ElectronicMall.Domain.Abstractions.csproj", "{1D6E6858-C679-4042-AD36-BF720AAC87C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicMall.Domain.Repository.EntityFrameworkCore", "ElectronicMall.Domain.Repository.EntityFrameworkCore\ElectronicMall.Domain.Repository.EntityFrameworkCore.csproj", "{D0033A5F-949E-42B5-8507-BB8598E5CAC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{1D6E6858-C679-4042-AD36-BF720AAC87C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D6E6858-C679-4042-AD36-BF720AAC87C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D6E6858-C679-4042-AD36-BF720AAC87C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0033A5F-949E-42B5-8507-BB8598E5CAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0033A5F-949E-42B5-8507-BB8598E5CAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0033A5F-949E-42B5-8507-BB8598E5CAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0033A5F-949E-42B5-8507-BB8598E5CAC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +41,7 @@ Global
 		{4909FC2A-3B71-47DF-96BD-D3BBD885820E} = {85A069B2-56DA-4A21-8B89-AF53D03DE764}
 		{9BF096CC-9749-4E23-9865-2E63986AECD3} = {85A069B2-56DA-4A21-8B89-AF53D03DE764}
 		{1D6E6858-C679-4042-AD36-BF720AAC87C2} = {A79701A2-8184-40B7-BB0C-AA28910BFF18}
+		{D0033A5F-949E-42B5-8507-BB8598E5CAC6} = {A79701A2-8184-40B7-BB0C-AA28910BFF18}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1255228A-1CC9-49F8-A68F-8F4D868B1556}
