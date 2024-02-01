@@ -10,7 +10,6 @@
     <Folder Include="Commands\" />
     <Folder Include="Events\" />
     <Folder Include="Messages\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>
